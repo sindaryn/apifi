@@ -16,7 +16,7 @@
 
     <properties>
         <datafi.version>de10384</datafi.version>
-        <spring-security-web.version>5.1.6.RELEASE</spring-security-web.version>
+        <spring-security-web.version>5.2.10.RELEASE</spring-security-web.version>
         <graphql-spqr-spring-boot-starter.version>0.0.4</graphql-spqr-spring-boot-starter.version>
     </properties>
 
